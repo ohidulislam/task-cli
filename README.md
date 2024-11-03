@@ -1,4 +1,4 @@
-# task-cli
+# TASK-CLI
 A CLI program to manage Tasks and Lessons
 
 ```
