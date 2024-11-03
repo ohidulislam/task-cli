@@ -3,6 +3,7 @@ A CLI program to manage Tasks and Lessons
 
 ```
 OPTIONS:
+-h                                            : Prints CLI Commands 
 -p [tasks/lessons]                            : Print either all Tasks/Lessons
 -a [tasks/lessons]                            : Adds either a Task/Lesson
 -u [tasks/lessons]                            : Updates either a Task/Lesson
