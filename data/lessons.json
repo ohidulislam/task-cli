@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Lesson 1", "watched": false },
+  { "id": 2, "name": "Lesson 2", "watched": false },
+  { "id": 3, "name": "Lesson 3", "watched": false },
+  { "id": 4, "name": "Lesson 4", "watched": false }
+]

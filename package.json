@@ -1,0 +1,20 @@
+{
+  "name": "task-cli",
+  "version": "1.0.0",
+  "description": "A CLI program build with nodejs, to manage (add/update/delete) Tasks and Lessons",
+  "main": "index.js",
+  "author": "TuTuL",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "task-cli": "index.js"
+  },
+  "keywords": [
+    "cli",
+    "task-cli",
+    "tasks",
+    "lessons"
+  ],
+  "license": "ISC"
+}
